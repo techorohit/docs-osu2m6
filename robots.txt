@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://techorohit.github.io/docs-osu2m6/sitemap.xml
